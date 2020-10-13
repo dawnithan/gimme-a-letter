@@ -1,6 +1,6 @@
 word = input("enter word: ")
 
-vowel_sound = ['a','e','i','o','r','s','f','h']
+vowel_sound = ['a', 'e', 'f', 'h', 'i','l', 'm', 'n', 'o', 'r', 's', 'x']
 article = ''
 
 for letter in word:
